@@ -178,12 +178,3 @@ assert add_numbers(2, 3) == 5
 This is a learning project. Add a license file (`LICENSE`) if you want to share it beyond personal/experimental use.
 
 ---
-
-If you'd like, I can also:
-- Add `requirements.txt` and a `tests/` scaffold with a sample pytest test for `simple_calculator`, or
-- Create a small example client script that calls the `simple_calculator` tools.
-
-**Let me know which next action you'd like me to take and I'll implement it.** ✅
-
-
-
