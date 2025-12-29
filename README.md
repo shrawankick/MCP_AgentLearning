@@ -12,8 +12,8 @@ source .venv/bin/activate
 If we find some errors, maybe this would be a workaround
 .\.venv\Scripts\Activate.ps1
 
-And then with the code that is available in our repository. So we have started using the simple_calculator.py and we have defined it in the MCP servers inside the Claude. 
-``
+And then with the code that is available in our repository. So we have started using the simple_calculator.py and we have defined it in the MCP servers inside the Claude.
+```
 {
   "mcpServers": {
     "simple-calculator": {
@@ -24,5 +24,4 @@ And then with the code that is available in our repository. So we have started u
     }
   }
 }
-
-``
+```
